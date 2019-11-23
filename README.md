@@ -17,4 +17,6 @@ If I got stuck some place, the source(s) below helped me-
 1. https://stackoverflow.com/
 2. https://docs.python.org/3/library/
 3. https://www.tutorialspoint.com/python/
+4. https://pandas.pydata.org/pandas-docs/version/0.17.0/
+5. I used Jupyter Notebook extensively for quickly running small snippets of code, and Atom editor (https://atom.io/) for bigger pieces of code.
 
